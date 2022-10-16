@@ -1,0 +1,5 @@
+X=int(input("Number 1 :"))
+Y=int(input("Number 2 :"))
+Z=int(input("Number 3 :"))
+S=int(X+Y+Z)
+print("The sum of the given values is = ",S)
